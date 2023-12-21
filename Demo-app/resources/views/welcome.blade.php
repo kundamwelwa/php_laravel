@@ -4,9 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TechStores</title>
+    <!-- Include Inertia.js in the head section -->
+    @inertia
     <link rel="stylesheet" href="Styles.css">
 </head>
 <body>
+    <!-- Include Inertia.js in the body section -->
+    @inertia
     <div class="flex-center position-ref full-height">
         <div class="content">
             <div class="title m-b-md">
